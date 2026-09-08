@@ -771,6 +771,31 @@
           - external
           - plain
 
+    - name: Tubes
+      link: https://tubes.pronounmail.com
+      support:
+        stable:
+          cap-3.1:
+          cap-3.2:
+          batch:
+          bot-mode:
+          message-tags:
+          msgid:
+          sasl-3.1:
+          sasl-3.2:
+          server-time:
+          setname:
+          standard-replies:
+          account-registration:
+          chathistory:
+          metadata:
+          multiline:
+          network-icon:
+          read-marker:
+          extended-isupport:
+        SASL:
+          - plain
+
     - name: PIRC.pl web client
       # ref: https://github.com/pirc-pl/pirc-gateway/blob/1fbe9c7269073a4d93f703e9f24f1239cfdde56c/js/gateway_cmds.js#L220-L221
       link: https://github.com/pirc-pl/pirc-gateway
